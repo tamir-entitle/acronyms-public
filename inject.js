@@ -10,8 +10,6 @@
       }
       const manifest = await response.json();
 
-      console.log(manifest);
-  
       // Extract the JavaScript and CSS file paths from the manifest
       const jsFile = manifest["index.html"].file;
       const cssFile = manifest["index.html"].css[0];
