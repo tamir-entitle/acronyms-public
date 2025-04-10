@@ -4,7 +4,7 @@
       const BASE_URL = "https://tamir-entitle.github.io/acronyms-public";
   
       // Fetch the manifest.json file
-      const response = await fetch(`${BASE_URL}/.vite/manifest.json`);
+      const response = await fetch(`${BASE_URL}/vite/manifest.json`);
       if (!response.ok) {
         throw new Error(`Failed to fetch manifest.json: ${response.statusText}`);
       }
