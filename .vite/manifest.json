@@ -1,0 +1,68 @@
+{
+  "index.html": {
+    "file": "assets/index.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index.css"
+    ],
+    "assets": [
+      "assets/upheavtt.ttf",
+      "assets/anta-regular.ttf",
+      "assets/player.svg",
+      "assets/header.svg",
+      "assets/footer.svg",
+      "assets/cloud-regular.png",
+      "assets/cloud-teasing.svg",
+      "assets/start-game.svg",
+      "assets/lock.svg",
+      "assets/shield.svg",
+      "assets/missing-acronyms-icons.svg"
+    ]
+  },
+  "src/assets/cloud-regular.png": {
+    "file": "assets/cloud-regular.png",
+    "src": "src/assets/cloud-regular.png"
+  },
+  "src/assets/cloud-teasing.svg": {
+    "file": "assets/cloud-teasing.svg",
+    "src": "src/assets/cloud-teasing.svg"
+  },
+  "src/assets/fonts/anta-regular.ttf": {
+    "file": "assets/anta-regular.ttf",
+    "src": "src/assets/fonts/anta-regular.ttf"
+  },
+  "src/assets/fonts/upheavtt.ttf": {
+    "file": "assets/upheavtt.ttf",
+    "src": "src/assets/fonts/upheavtt.ttf"
+  },
+  "src/assets/footer.svg": {
+    "file": "assets/footer.svg",
+    "src": "src/assets/footer.svg"
+  },
+  "src/assets/header.svg": {
+    "file": "assets/header.svg",
+    "src": "src/assets/header.svg"
+  },
+  "src/assets/lock.svg": {
+    "file": "assets/lock.svg",
+    "src": "src/assets/lock.svg"
+  },
+  "src/assets/missing-acronyms-icons.svg": {
+    "file": "assets/missing-acronyms-icons.svg",
+    "src": "src/assets/missing-acronyms-icons.svg"
+  },
+  "src/assets/player.svg": {
+    "file": "assets/player.svg",
+    "src": "src/assets/player.svg"
+  },
+  "src/assets/shield.svg": {
+    "file": "assets/shield.svg",
+    "src": "src/assets/shield.svg"
+  },
+  "src/assets/start-game.svg": {
+    "file": "assets/start-game.svg",
+    "src": "src/assets/start-game.svg"
+  }
+}

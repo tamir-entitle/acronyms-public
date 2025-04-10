@@ -1,0 +1,68 @@
+{
+  "index.html": {
+    "file": "assets/index-B7vd_IHL.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index-mSCAF54U.css"
+    ],
+    "assets": [
+      "assets/upheavtt-B-9OJ9eJ.ttf",
+      "assets/anta-regular-DzzVeyfu.ttf",
+      "assets/player-CFvyB0DV.svg",
+      "assets/header-xGsvl4zg.svg",
+      "assets/footer-DWVwOP29.svg",
+      "assets/cloud-regular-THkGeeCo.png",
+      "assets/cloud-teasing-CK6nCUfm.svg",
+      "assets/start-game-CpUhIy56.svg",
+      "assets/lock-Bxy0erKw.svg",
+      "assets/shield-Cl-TVd0O.svg",
+      "assets/missing-acronyms-icons-Jr-Eoqhj.svg"
+    ]
+  },
+  "src/assets/cloud-regular.png": {
+    "file": "assets/cloud-regular-THkGeeCo.png",
+    "src": "src/assets/cloud-regular.png"
+  },
+  "src/assets/cloud-teasing.svg": {
+    "file": "assets/cloud-teasing-CK6nCUfm.svg",
+    "src": "src/assets/cloud-teasing.svg"
+  },
+  "src/assets/fonts/anta-regular.ttf": {
+    "file": "assets/anta-regular-DzzVeyfu.ttf",
+    "src": "src/assets/fonts/anta-regular.ttf"
+  },
+  "src/assets/fonts/upheavtt.ttf": {
+    "file": "assets/upheavtt-B-9OJ9eJ.ttf",
+    "src": "src/assets/fonts/upheavtt.ttf"
+  },
+  "src/assets/footer.svg": {
+    "file": "assets/footer-DWVwOP29.svg",
+    "src": "src/assets/footer.svg"
+  },
+  "src/assets/header.svg": {
+    "file": "assets/header-xGsvl4zg.svg",
+    "src": "src/assets/header.svg"
+  },
+  "src/assets/lock.svg": {
+    "file": "assets/lock-Bxy0erKw.svg",
+    "src": "src/assets/lock.svg"
+  },
+  "src/assets/missing-acronyms-icons.svg": {
+    "file": "assets/missing-acronyms-icons-Jr-Eoqhj.svg",
+    "src": "src/assets/missing-acronyms-icons.svg"
+  },
+  "src/assets/player.svg": {
+    "file": "assets/player-CFvyB0DV.svg",
+    "src": "src/assets/player.svg"
+  },
+  "src/assets/shield.svg": {
+    "file": "assets/shield-Cl-TVd0O.svg",
+    "src": "src/assets/shield.svg"
+  },
+  "src/assets/start-game.svg": {
+    "file": "assets/start-game-CpUhIy56.svg",
+    "src": "src/assets/start-game.svg"
+  }
+}
