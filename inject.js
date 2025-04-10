@@ -1,7 +1,7 @@
 (async function () {
     try {
       // URL of your hosted app files
-      const BASE_URL = "http://localhost:3000";
+      const BASE_URL = "https://tamir-entitle.github.io/acronyms-public";
   
       // Fetch the manifest.json file
       const response = await fetch(`${BASE_URL}/.vite/manifest.json`);
