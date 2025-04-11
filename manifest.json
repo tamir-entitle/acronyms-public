@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-C28Tv967.js",
+    "file": "assets/index-CLYG3X_k.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -15,11 +15,16 @@
       "assets/footer-DWVwOP29.svg",
       "assets/cloud-regular-THkGeeCo.png",
       "assets/cloud-teasing-CK6nCUfm.svg",
+      "assets/all-stars-BSnIiGeA.svg",
       "assets/start-game-CpUhIy56.svg",
       "assets/lock-Bxy0erKw.svg",
       "assets/shield-Cl-TVd0O.svg",
       "assets/missing-acronyms-icons-Jr-Eoqhj.svg"
     ]
+  },
+  "src/assets/all-stars.svg": {
+    "file": "assets/all-stars-BSnIiGeA.svg",
+    "src": "src/assets/all-stars.svg"
   },
   "src/assets/cloud-regular.png": {
     "file": "assets/cloud-regular-THkGeeCo.png",
