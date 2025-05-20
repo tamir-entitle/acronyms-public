@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-CPv18cIN.js",
+    "file": "assets/index-B8-TXv-E.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -11,11 +11,11 @@
       "assets/upheavtt-B-9OJ9eJ.ttf",
       "assets/anta-regular-DzzVeyfu.ttf",
       "assets/player-CFvyB0DV.svg",
-      "assets/header-xGsvl4zg.svg",
+      "assets/header-BzdpBHsL.svg",
       "assets/footer-DWVwOP29.svg",
       "assets/cloud-regular-THkGeeCo.png",
       "assets/cloud-teasing-CK6nCUfm.svg",
-      "assets/all-stars-BSnIiGeA.svg",
+      "assets/all-stars-DrmqS5p8.svg",
       "assets/start-game-CpUhIy56.svg",
       "assets/lock-Bxy0erKw.svg",
       "assets/shield-Cl-TVd0O.svg",
@@ -23,7 +23,7 @@
     ]
   },
   "src/assets/all-stars.svg": {
-    "file": "assets/all-stars-BSnIiGeA.svg",
+    "file": "assets/all-stars-DrmqS5p8.svg",
     "src": "src/assets/all-stars.svg"
   },
   "src/assets/cloud-regular.png": {
@@ -47,7 +47,7 @@
     "src": "src/assets/footer.svg"
   },
   "src/assets/header.svg": {
-    "file": "assets/header-xGsvl4zg.svg",
+    "file": "assets/header-BzdpBHsL.svg",
     "src": "src/assets/header.svg"
   },
   "src/assets/lock.svg": {
