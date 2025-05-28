@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-YIqe-9Fj.js",
+    "file": "assets/index--Q8Y69D6.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -19,12 +19,18 @@
       "assets/start-game-CpUhIy56.svg",
       "assets/lock-Bxy0erKw.svg",
       "assets/shield-Cl-TVd0O.svg",
-      "assets/missing-acronyms-icons-Jr-Eoqhj.svg"
+      "assets/missing-acronyms-icons-Jr-Eoqhj.svg",
+      "assets/success-icon-Ju9jXiLA.png",
+      "assets/cancel-icon-DBfhb6rL.png"
     ]
   },
   "src/assets/all-stars.svg": {
     "file": "assets/all-stars-DrmqS5p8.svg",
     "src": "src/assets/all-stars.svg"
+  },
+  "src/assets/cancel-icon.png": {
+    "file": "assets/cancel-icon-DBfhb6rL.png",
+    "src": "src/assets/cancel-icon.png"
   },
   "src/assets/cloud-regular.png": {
     "file": "assets/cloud-regular-THkGeeCo.png",
@@ -69,5 +75,9 @@
   "src/assets/start-game.svg": {
     "file": "assets/start-game-CpUhIy56.svg",
     "src": "src/assets/start-game.svg"
+  },
+  "src/assets/success-icon.png": {
+    "file": "assets/success-icon-Ju9jXiLA.png",
+    "src": "src/assets/success-icon.png"
   }
 }
